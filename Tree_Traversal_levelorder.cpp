@@ -1,3 +1,7 @@
+/*
+Time complexity : o(n)
+Space complexity : Best -> o(1) & Worst -> o(n)
+*/
 #include<bits/stdc++.h>
 using namespace std;
 struct Node{
