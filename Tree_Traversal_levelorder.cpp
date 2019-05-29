@@ -34,7 +34,7 @@ void levelorder(Node *root){
 		Node *current=Q.front();
 			/*
 		remove the element as its visited and left and right are 
-		pushed onto the queue 
+		pushed into the queue 
 		*/
 		
 		Q.pop();
