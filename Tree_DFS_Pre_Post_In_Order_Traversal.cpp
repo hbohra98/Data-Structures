@@ -23,7 +23,7 @@ Node* Insert(Node *root,char data) {
 	return root;
 }
 /*
-Recurisvely call for sam sub problems in the depth
+Recurisvely call for same sub problems in the depth
 */
 
 /* Pre order traversal */ 
@@ -57,7 +57,7 @@ int main(){
 
 	/*
 	
-	            6
+	                    6
 			   / \
 			  4   7
 			 / \   \
