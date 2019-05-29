@@ -58,20 +58,20 @@ int main(){
 
 	/*
 	
-	                    H
+	           	    6
 			   / \
-			  E   A
+			  4   7
 			 / \   \
-			L   T   H
+			1   5   9
     
 	*/
 
 
 	Node* root = NULL;
 	//Node* root = NULL;
-	root = Insert(root,'H'); root = Insert(root,'E');
-	root = Insert(root,'A'); root = Insert(root,'L'); 
-	root = Insert(root,'T'); root = Insert(root,'H');
+	root = Insert(root,'6'); root = Insert(root,'4');
+	root = Insert(root,'7'); root = Insert(root,'1'); 
+	root = Insert(root,'5'); root = Insert(root,'9');
  
 	levelorder(root);
 	
