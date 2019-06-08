@@ -1,0 +1,37 @@
+//dfs of a graph complexity o(V+E) 
+#include<bits/stdc++.h>
+using namespace std;
+//Adjacency list and visited list
+vector<vector<int>> grp;
+vector<bool> visi;
+// add edge in the graph
+void edge(int a ,int b){
+     grp[a].push_back(b);
+     grp[b].push_back(a);
+}
+// depth first search
+void dfs(int n){
+     visi[n]=true;
+     cout<<n<<" ";
+     for(int w:grp[n]){
+               if(!visi[w]){
+               dfs(w);
+     }}}
+int main(){
+     int n,e;
+     cin>>n>>e;
+     grp.assign(n,vector<int>());
+     visi.assign(n,false);
+     //here the graph input begin
+     for(int i=0;i<e;i++){
+          int a,b;
+          cin>>a>>b;
+          edge(a,b);
+     }
+     //here the bfs begins
+     for(int i=0;i<n;i++){
+          if(!visi[i]){
+               dfs(i);
+          }
+     }
+}
