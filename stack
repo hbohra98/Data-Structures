@@ -1,0 +1,116 @@
+Stack Data Structure
+Recent articles on Stack
+Stack is a linear data structure which follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out).
+
+
+
+There are many real-life examples of a stack. Consider an example of plates stacked over one another in the canteen. The plate which is at the top is the first one to be removed, i.e. the plate which has been placed at the bottommost position remains in the stack for the longest period of time. So, it can be simply seen to follow LIFO(Last In First Out)/FILO(First In Last Out) order.
+
+Topics :
+
+
+
+ 
+
+Introduction
+Design and Implementation
+Standard Problems
+Operations on Stack
+Misc
+Quick Links
+Introduction :
+
+Introduction to Stack
+Stack in C++ STL
+Stack Class in Java
+Design and Implementation :
+
+Implement Queue using Stacks
+Design and Implement Special Stack Data Structure | Added Space Optimized Version
+Implement two stacks in an array
+Implement Stack using Queues
+Design a stack with operations on middle element
+How to efficiently implement k stacks in a single array?
+How to create mergable stack?
+Design a stack that supports getMin() in O(1) time and O(1) extra space
+Implement a stack using single queue
+How to implement stack using priority queue or heap?
+Create a customized data structure which evaluates functions in O(1)
+Implement Stack and Queue using Deque
+Standard Problems based on Stack :
+
+Infix to Postfix Conversion using Stack
+Prefix to Infix Conversion
+Prefix to Postfix Conversion
+Postfix to Prefix Conversion
+Postfix to Infix
+Convert Infix To Prefix Notation
+The Stock Span Problem
+Check for balanced parentheses in an expression
+Next Greater Element
+Next Greater Frequency Element
+Number of NGEs to the right
+Maximum product of indexes of next greater on left and right
+The Celebrity Problem
+Expression Evaluation
+Arithmetic Expression Evalution
+Evaluation of Postfix Expression
+Iterative Tower of Hanoi
+Print next greater number of Q queries
+Operations on Stack :
+
+Reverse a stack using recursion
+Sort a stack using recursion
+Sort a stack using a temporary stack
+Reverse a stack without using extra space in O(n)
+Delete middle element of a stack
+Sorting array using Stacks
+Delete array elements which are smaller than next or become smaller
+Check if a queue can be sorted into another queue using a stack
+Reverse individual words
+Count subarrays where second highest lie before highest
+Check if an array is stack sortable
+Misc :
+
+Iterative Postorder Traversal | Set 1 (Using Two Stacks)
+Iterative Postorder Traversal | Set 2 (Using One Stack)
+Merge Overlapping Intervals
+Largest Rectangular Area in a Histogram | Set 2
+Print ancestors of a given binary tree node without recursion
+Reverse a string using stack
+Program for Tower of Hanoi
+Find maximum depth of nested parenthesis in a string
+Find maximum of minimum for every window size in a given array
+Length of the longest valid substring
+Iterative Depth First Traversal of Graph
+Minimum number of bracket reversals needed to make an expression balanced
+Expression contains redundant bracket or not
+Identify and mark unmatched parenthesis in an expression
+Check if two expressions with brackets are same
+Find index of closing bracket for a given opening bracket in an expression
+Check for balanced parentheses in an expression
+Balanced expression with replacement
+Check if a given array can represent Preorder Traversal of Binary Search Tree
+Form minimum number from given sequence
+Find if an expression has duplicate parenthesis or not
+Find maximum difference between nearest left and right smaller elements
+Find next Smaller of next Greater in an array
+Find maximum sum possible equal sum of three stacks
+Count natural numbers whose all permutation are greater than that number
+Delete consecutive same words in a sequence
+Decode a string recursively encoded as count followed by substring
+Bubble sort using two Stacks
+Pattern Occurrences : Stack Implementation Java
+Iterative method to find ancestors of a given binary tree
+Stack Permutations (Check if an array is stack permutation of other)
+Tracking current Maximum Element in a Stack
+Check mirror in n-ary tree
+Reverse a number using stack
+Reversing the first K elements of a Queue
+Reversing a Queue
+Check if stack elements are pairwise consecutive
+Spaghetti Stack
+Interleave the first half of the queue with second half
+Remove brackets from an algebraic string containing + and – operators
+Growable array based stack
+Range Queries for Longest Correct Bracket Subsequence
