@@ -1,0 +1,258 @@
+Array Data Structure
+Recent articles on Arrays
+An array is a collection of items stored at contiguous memory locations. The idea is to store multiple items of the same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).
+
+The above image can be looked as a top-level view of a staircase where you are at the base of the staircase. Each element can be uniquely identified by their index in the array (in a similar way as you could identify your friends by the step on which they were on in the above example).
+
+Topics :
+
+Introduction
+Array Rotations
+Arrangement Rearrangement
+Order Statistics
+Range Queries
+Searching and Sorting
+Optimization Problems
+Matrix
+Misc
+Quick Links
+Array Introduction :
+
+Introduction to Arrays
+Arrays in C/C++
+Arrays in Java
+Arrays in Python
+Array Rotations :
+
+
+
+ 
+
+Program for array rotation
+Reversal algorithm for array rotation
+Block swap algorithm for array rotation
+Program to cyclically rotate an array by one
+Search an element in a sorted and rotated array
+Given a sorted and rotated array, find if there is a pair with a given sum
+Find maximum value of Sum( i*arr[i]) with only rotations on given array allowed
+Maximum sum of i*arr[i] among all rotations of a given array
+Find the Rotation Count in Rotated Sorted array
+Quickly find multiple left rotations of an array
+Find the minimum element in a sorted and rotated array
+Reversal algorithm for right rotation of an array
+Find a rotation with maximum hamming distance
+Queries on Left and Right Circular shift on array
+Print left rotation of array in O(n) time and O(1) space
+Find element at given index after a number of rotations
+Split the array and add the first part to the end
+More >>
+
+Arrangement Rearrangement :
+
+Rearrange an array such that arr[i] = i
+Write a program to reverse an array or string
+Rearrange array such that arr[i] >= arr[j] if i is even and arr[i]<=arr[j] if i is odd and j < i
+Rearrange positive and negative numbers in O(n) time and O(1) extra space
+Rearrange array in alternating positive & negative items with O(1) extra space | Set 1
+Move all zeroes to end of array
+Move all zeroes to end of array | Set-2 (Using single traversal)
+Minimum swaps required to bring all elements less than or equal to k together
+Rearrange positive and negative numbers using inbuilt sort function
+Rearrange array such that even positioned are greater than odd
+Rearrange an array in order – smallest, largest, 2nd smallest, 2nd largest, ..
+Double the first element and move zero to end
+Reorder an array according to given indexes
+Rearrange positive and negative numbers with constant extra space
+Arrange given numbers to form the biggest number
+Rearrange an array such that ‘arr[j]’ becomes ‘i’ if ‘arr[i]’ is ‘j’
+Rearrange an array in maximum minimum form | Set 1
+Rearrange an array in maximum minimum form | Set 2 (O(1) extra space)
+Move all negative numbers to beginning and positive to end with constant extra space
+Move all negative elements to end in order with extra space allowed
+Rearrange array such that even index elements are smaller and odd index elements are greater
+Positive elements at even and negative at odd positions
+Replace every array element by multiplication of previous and next
+Shuffle a given array
+Segregate even and odd numbers
+More >>
+
+Order Statistics :
+
+K’th Smallest/Largest Element in Unsorted Array | Set 1
+K’th Smallest/Largest Element in Unsorted Array | Set 2 (Expected Linear Time)
+K’th Smallest/Largest Element in Unsorted Array | Set 3 (Worst Case Linear Time)
+K’th Smallest/Largest Element using STL
+k largest(or smallest) elements in an array | added Min Heap method
+Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1
+Program to find largest element in an array
+Find the largest three elements in an array
+Find all elements in array which have at-least two greater elements
+Program for Mean and median of an unsorted array
+Median of Stream of Running Integers using STL
+Minimum product of k integers in an array of positive Integers
+K-th Largest Sum Contiguous Subarray
+K maximum sum combinations from two arrays
+K maximum sums of overlapping contiguous sub-arrays
+K maximum sums of non-overlapping contiguous sub-arrays
+k smallest elements in same order using O(1) extra space
+Find k pairs with smallest sums in two arrays
+k-th smallest absolute difference of two elements in an array
+Find Second largest element in an array
+Find k numbers with most occurrences in the given array
+Find the smallest and second smallest elements in an array
+Find the smallest missing number
+Maximum sum such that no two elements are adjacent
+Maximum and minimum of an array using minimum number of comparisons
+More >>
+
+Range Queries :
+
+MO’s Algorithm
+Sqrt (or Square Root) Decomposition Technique | Set 1 (Introduction)
+Sparse Table
+Range sum query using Sparse Table
+Range Minimum Query (Square Root Decomposition and Sparse Table)
+Range Queries for Frequencies of array elements
+Constant time range add operation on an array
+Range LCM Queries
+GCDs of given index ranges in an array
+Queries for GCD of all numbers of an array except elements in a given range
+Number of elements less than or equal to a given number in a given subarray
+Number of elements less than or equal to a given number in a given subarray | Set 2 (Including Updates)
+Queries for counts of array elements with values in given range
+Queries for decimal values of subarrays of a binary array
+Count elements which divide all numbers in range L-R
+Number whose sum of XOR with given array range is maximum
+XOR of numbers that appeared even number of times in given Range
+Array range queries over range queries
+Array range queries for searching an element
+Array range queries for elements with frequency same as value
+Maximum Occurrence in a Given Range
+Number of indexes with equal elements in given range
+Merge Sort Tree for Range Order Statistics
+Total numbers with no repeated digits in a range
+Difference Array | Range update query in O(1)
+More >>
+
+
+
+ 
+
+Optimization Problems :
+
+Largest Sum Contiguous Subarray
+Maximum profit by buying and selling a share at most twice
+Find the subarray with least average
+Find the minimum distance between two numbers
+Minimize the maximum difference between the heights
+Minimum number of jumps to reach end
+Dynamic Programming | Set 14 (Maximum Sum Increasing Subsequence)
+Smallest subarray with sum greater than a given value
+Find maximum average subarray of k length
+Count minimum steps to get the given desired array
+Number of subsets with product less than k
+Find minimum number of merge operations to make an array palindrome
+Find the smallest positive integer value that cannot be represented as sum of any subset of a given array
+Size of The Subarray With Maximum Sum
+Find minimum difference between any two elements
+Space optimization using bit manipulations
+Longest Span with same Sum in two Binary arrays
+Sorting :
+
+Alternative Sorting
+Sort a nearly sorted (or K sorted) array
+Sort an array according to absolute difference with given value
+Sort an array in wave form
+Merge an array of size n into another array of size m+n
+Sort an array which contain 1 to n values
+Sort 1 to N by swapping adjacent elements
+Sort an array containing two types of elements
+Sort elements by frequency | Set 1
+Count Inversions in an array | Set 1 (Using Merge Sort)
+Two elements whose sum is closest to zero
+Shortest Un-ordered Subarray
+Minimum number of swaps required to sort an array
+Union and Intersection of two sorted arrays
+Find Union and Intersection of two unsorted arrays
+Sort an array of 0s, 1s and 2s
+Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
+Median in a stream of integers (running integers)
+Count the number of possible triangles
+Find number of pairs (x, y) in an array such that x^y > y^x
+Count all distinct pairs with difference equal to k
+Print All Distinct Elements of a given integer array
+Construct an array from its pair-sum array
+Merge two sorted arrays with O(1) extra space
+Product of maximum in first array and minimum in second
+More >>
+
+Searching :
+
+Search, insert and delete in an unsorted array
+Search, insert and delete in a sorted array
+Given an array A[] and a number x, check for pair in A[] with sum as x
+Searching in an array where adjacent differ by at most k
+Find common elements in three sorted arrays
+Find position of an element in a sorted array of infinite numbers
+Find the only repetitive element between 1 to n-1
+Find the element that appears once
+Maximum Subarray Sum Excluding Certain Elements
+Maximum equlibrium sum in an array
+Equilibrium index of an array
+Leaders in an array
+Ceiling in a sorted array
+Majority Element
+Check for Majority Element in a sorted array
+Check if an array has a majority element
+Two Pointers Technique
+Find a peak element
+Find the two repeating elements in a given array
+Find a Fixed Point in a given array
+Find sub-array with given sum
+Maximum triplet sum in array
+Smallest Difference Triplet from Three arrays
+Find a triplet that sum to a given value
+Find all triplets with zero sum
+More >>
+
+Matrix :
+
+Rotate Matrix Elements
+Inplace rotate square matrix by 90 degrees | Set 1
+Rotate a matrix by 90 degree without using any extra space | Set 2
+Rotate a Matrix by 180 degree
+Turn an image by 90 degree
+Rotate each ring of matrix anticlockwise by K elements
+Check if all rows of a matrix are circular rotations of each other
+Sort the given matrix
+Find the row with maximum number of 1s
+Find median in row wise sorted matrix
+Matrix Multiplication | Recursive
+Program to multiply two matrices
+Program for scalar multiplication of a matrix
+Program to print Lower triangular and Upper triangular matrix of an array
+Find distinct elements common to all rows of a matrix
+Print a given matrix in spiral form
+Find maximum element of each row in a matrix
+Find unique elements in a matrix
+Shift matrix elements row-wise by k
+Different Operations on Matrices
+Print a given matrix in counter-clock wise spiral form
+Swap major and minor diagonals of a square matrix
+Maximum path sum in matrix
+Squares of Matrix Diagonal Elements
+Move matrix elements in given direction and add elements with same value
+More >>
+
+Misc :
+
+Subarray/Substring vs Subsequence and Programs to Generate them
+A Product Array Puzzle
+Number of subarrays with given product
+Linked List vs Array
+Check if array elements are consecutive | Added Method 3
+Find whether an array is subset of another array | Added Method 3
+Implement two stacks in an array
+Find relative complement of two sorted arrays
+Minimum increment by k operations to make all elements equal
+Minimize (max(A[i], B[j], C[k]) – min(A[i], B[j], C[k])) of three different sorted arrays
