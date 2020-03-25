@@ -13,11 +13,10 @@ Node insert(Node node, int key) {
 			return node; 
 
 	
-		node.height = 1 + max_element(height(node.left), 
-							height(node.right)); 
+		node.height = 1 + max_element(height(node.left),height(node.right)); 
 
         
-		int balance = 0; 
+	int balance = 0; 
         if (node != null) 
 			balance=height(node.left) - height(node.right); 
 		// Left Right Case  || LR
