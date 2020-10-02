@@ -1,4 +1,5 @@
 /*
+Algorithm
 Time complexity : o(n)
 Space complexity : Best,average case -> o(log(n)) & Worst -> o(n)
 */
